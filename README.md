@@ -1,1 +1,1 @@
-# blog.locoom.co
+# 👀
