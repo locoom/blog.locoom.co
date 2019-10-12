@@ -12,9 +12,9 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 1. 
 2. Branża wyposażenia wnętrz szybko się rozwija
 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
-4. Prognozy finansowe są 
+4. Specjaliści są zgodni, że część 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODc0MDM0LDE3ODg3NzE3MiwtMTA2MD
+eyJoaXN0b3J5IjpbMzczNTA1NTQwLDE3ODg3NzE3MiwtMTA2MD
 g3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEz
 LDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
 -->
