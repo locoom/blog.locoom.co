@@ -9,9 +9,9 @@ Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla
 
 Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. Jeśli masz dostęp do tego artykułu i czytasz te słowa, oznacza to że masz możliwość zainwestowania w Locoom i wzięcia udziału w zyskach firmy. Oto pięć powodów, dla których warto wziąć pod uwagę tę propozycję:
 
-1. 
+1. Doskonały moment na 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01Nj
-M4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIx
-NiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
+eyJoaXN0b3J5IjpbODc2NzMzNTAxLDE3ODg3NzE3MiwtMTA2MD
+g3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEz
+LDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
 -->
