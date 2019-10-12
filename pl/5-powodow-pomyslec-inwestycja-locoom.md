@@ -34,8 +34,10 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 * (Ryzyko – konieczne, ale potencjalnie bardzo duży zysk)
 * (Dobre praktyki budżetu rodzinnego – pewna część inwestycji to gra o wysoką stawkę)
+
+## Chcesz wiedzieć więcej?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjAzODkyNywxNzg4NzcxNzIsLTEwNj
+eyJoaXN0b3J5IjpbMTQwMDc5OTUxMywxNzg4NzcxNzIsLTEwNj
 A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
 MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
 ==
