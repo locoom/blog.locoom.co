@@ -9,11 +9,11 @@ Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla
 
 Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. Jeśli masz dostęp do tego artykułu i czytasz te słowa, oznacza to że masz możliwość zainwestowania w Locoom i wzięcia udziału w zyskach firmy. Oto pięć powodów, dla których warto wziąć pod uwagę tę propozycję:
 
-1. Branża wyposażenia wnętrz szybko się rozwija
-2. 
+1. 
+2. Branża wyposażenia wnętrz szybko się rozwija
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTIyMjkxMSwxNzg4NzcxNzIsLTEwNj
-A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
-MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
-==
+eyJoaXN0b3J5IjpbLTExNDg3MTY0ODUsMTc4ODc3MTcyLC0xMD
+YwODcxNjYyLC01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4
+MTMsMjA1MTAxMDIxNiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX
+0=
 -->
