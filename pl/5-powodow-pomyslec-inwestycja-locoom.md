@@ -7,9 +7,9 @@ Locoom to pierwszy na świecie wirtualny projektant wnętrz. Dzięki technologio
 
 Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla przyjaciela – a dopiero trzeci możemy budować dla siebie. I rzeczywiście, właściciele domów i mieszkań często wyliczają błędy, które przez brak doświadczenia popełnili w czasie budowy czy remontu. Wprawdzie można takich błędów uniknąć, zwracając się o pomoc do doświadczonego projektanta, jednak aż 13 na 14 osób (93%) rezygnuje z zatrudnienia projektanta i samemu stawia czoła problemom takim jak odpowiednie rozmieszczenie mebli, dobór ceramiki i armatury łazienkowej, czy spójne skomponowanie materiałów wykończeniowych. Choć te statystyki pochodzą z danych zebranych w Polsce, wyglądają one podobnie na całym świecie.
 
-Rozwiązanie tych problemów dla wszystkich osób, które nie zatrudniają tradycyjnego projektanta to potężna
+Rozwiązanie tych problemów u wszystkich, którzy nie mają dostępu do tradycyjnego projektanta to potężna
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTg4OTA0NCwxNjAxNDQ5MDY3LC0xOT
-k5NDg4ODEzLDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMjA5MDI1
-MDMzNl19
+eyJoaXN0b3J5IjpbLTEyMTEwMDEyNjYsMTYwMTQ0OTA2NywtMT
+k5OTQ4ODgxMywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAy
+NTAzMzZdfQ==
 -->
