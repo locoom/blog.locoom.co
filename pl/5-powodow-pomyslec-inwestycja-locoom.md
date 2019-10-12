@@ -5,11 +5,11 @@
 
 Locoom to pierwszy na świecie wirtualny projektant wnętrz. Dzięki technologiom sztucznej inteligencji (np. systemy eksperckie, uczenie maszynowe) i prostemu systemowi rozliczeń z producentami wyposażenia i materiałów wykończeniowych, w Locoom każdy może bezpłatnie zamówić projekt wnętrza skrojony na miarę do swoich potrzeb.
 
-Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla przyjaciela – a dopiero trzeci możemy budować dla siebie. I rzeczywiście, właściciele domów i mieszkań często wyliczają błędy, które przez brak doświadczenia popełnili w czasie budowy czy remontu. Wprawdzie można takich błędów uniknąć, zwracając się o pomoc do doświadczonego projektanta, jednak aż 13 na 14 osób (93%) rezygnuje z zatrudnienia projektanta i samemu stawia czoła problemom takim jak odpowiednie rozmieszczenie mebli, dobór ceramiki i armatury łazienkowej, czy spójne skomponowanie materiałów wykończeniowych. Chociaż te statystyki pochodzą z danych zebranych w Polsce, wyglądają one podobnie na całym świecie.
+Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla przyjaciela – a dopiero trzeci możemy budować dla siebie. I rzeczywiście, właściciele domów i mieszkań często wyliczają błędy, które przez brak doświadczenia popełnili w czasie budowy czy remontu. Wprawdzie można takich błędów uniknąć, zwracając się o pomoc do doświadczonego projektanta, jednak aż 13 na 14 osób (93%) rezygnuje z zatrudnienia projektanta i samemu stawia czoła problemom takim jak odpowiednie rozmieszczenie mebli, dobór ceramiki i armatury łazienkowej, czy spójne skomponowanie materiałów wykończeniowych. Chociaż te statystyki dotyczą danych zebranych w Polsce, sytuacja przedstawia się podobnie na całym świecie.
 
-Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu.
+Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA4NzE2NjIsLTU2Mzg2ODUsMTYwMT
-Q0OTA2NywtMTk5OTQ4ODgxMywyMDUxMDEwMjE2LC02NTM3MjAx
-MjgsLTIwOTAyNTAzMzZdfQ==
+eyJoaXN0b3J5IjpbLTI1OTEzNTQ5OSwtMTA2MDg3MTY2MiwtNT
+YzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAy
+MTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
 -->
