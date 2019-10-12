@@ -22,12 +22,20 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 ## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 
-* (
+* (Zespół – osiągnięcia, doświadczenie, predyspozycje)
+* (Strategia dotarcia do klientów)
 
-4. Konkurencja jest daleko w tyle
-5. Specjaliści zgodnie polecają inwestycje takie jak ta
+## 4. Konkurencja jest daleko w tyle
+
+* (Co robią inni)
+* (Ochrona własności intelektualnej)
+
+## 5. Specjaliści zgodnie polecają inwestycje takie jak ta
+
+* (Ryzyko – konieczne, ale gra na naszą 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTU5MDgsMTc4ODc3MTcyLC0xMDYwOD
-cxNjYyLC01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMs
-MjA1MTAxMDIxNiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
+eyJoaXN0b3J5IjpbMTI3MjI5ODQ0NywxNzg4NzcxNzIsLTEwNj
+A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
+MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
+==
 -->
