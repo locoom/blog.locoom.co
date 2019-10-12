@@ -7,9 +7,9 @@ Locoom to pierwszy na świecie wirtualny projektant wnętrz. Dzięki technologio
 
 Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla przyjaciela – a dopiero trzeci możemy budować dla siebie. I rzeczywiście, właściciele domów i mieszkań często wyliczają błędy, które przez brak doświadczenia popełnili w czasie budowy czy remontu. Wprawdzie można takich błędów uniknąć, zwracając się o pomoc do doświadczonego projektanta, jednak aż 13 na 14 osób (93%) rezygnuje z zatrudnienia projektanta i samemu stawia czoła problemom takim jak odpowiednie rozmieszczenie mebli, dobór ceramiki i armatury łazienkowej, czy spójne skomponowanie materiałów wykończeniowych. Chociaż te statystyki dotyczą danych zebranych w Polsce, sytuacja przedstawia się podobnie na całym świecie.
 
-Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. Oto pięć powodów, dla 
+Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. Jeśli masz dostęp do tego artykułu, oznacza to że masz możliwość zainwestowania w Locoom i wzięc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU2NTk3MzIsLTEwNjA4NzE2NjIsLT
-U2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgxMywyMDUxMDEw
-MjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzE5Nzc5MCwtMTA2MDg3MTY2MiwtNT
+YzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAy
+MTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
 -->
