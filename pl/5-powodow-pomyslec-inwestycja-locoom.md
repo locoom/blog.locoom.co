@@ -1,7 +1,7 @@
 
 # 5 powodów, dla których warto pomyśleć nad inwestycją w Locoom
 
-**Ceniony marketer i znawca branży wyposażenia wnętrz, Marek Gonsior, uruchamia wraz z producentem oprogramowania Tomkiem Wiszniewskim aplikację Locoom, która na zawsze zmieni projektowanie wnętrz. Opowiadają, na czym polega ich rewolucyjny pomysł i o zamkniętej rundzie inwestycyjnej, dzięki której wąskie grono osób może wziąć udział w zyskach.**
+**Ceniony marketer i znawca branży wyposażenia wnętrz, Marek Gonsior, uruchamia wraz z producentem oprogramowania Tomkiem Wiszniewskim aplikację Locoom, która na zawsze zmieni projektowanie wnętrz. Opowiadają, na czym polega ich rewolucyjny pomysł i o zamkniętej rundzie inwestycyjnej, dzięki której wąskie grono osób może wziąć udział w zyskach firmy.**
 
 Locoom to pierwszy na świecie wirtualny projektant wnętrz. Dzięki nowoczesnym technologiom takim jak sztuczna inteligencja (uczenie maszynowe) i prostemu systemowi rozliczeń oferuje każdemu bezpłatny projekt wnętrza
 
@@ -9,6 +9,6 @@ Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla
 
 Dlatego w Polsce aż 13 na 14 osób (93%) rezygnuje z zatrudnienia projektanta i samemu stawia czoła problemom takim jak odpowiednie rozmieszczenie mebli, dobór ceramiki i armatury łazienkowej, czy spójne skomponowanie materiałów wykończeniowych. Statystyki te wyglądają podobnie na całym świecie.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTgyMDQ3NiwtMTk5OTQ4ODgxMywyMD
+eyJoaXN0b3J5IjpbLTgxNzQ2ODU5OSwtMTk5OTQ4ODgxMywyMD
 UxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ==
 -->
