@@ -32,9 +32,10 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 ## 5. Specjaliści zgodnie polecają inwestycje takie jak ta
 
-* (Ryzyko – konieczne, ale gra na naszą 
+* (Ryzyko – konieczne, ale potencjalnie bardzo duży zysk)
+* (Dobre praktyki budżetu rodzinnego – pewna część inwestycji to gra o wysoką stawkę)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjI5ODQ0NywxNzg4NzcxNzIsLTEwNj
+eyJoaXN0b3J5IjpbMjA4MjAzODkyNywxNzg4NzcxNzIsLTEwNj
 A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
 MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
 ==
