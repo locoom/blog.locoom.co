@@ -11,15 +11,23 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 ## 1. Warto inwestować w technologię
 
-* (Porównanie do Ubera, Spotify, Facebooka. Progno
+* (Porównanie do Ubera, Spotify, Facebooka)
+* (Prognozy finansowe – 1000% w 2 lata)
+* (Dofinansowanie unijne – zabezpieczenie i dodatkowa wartość)
 
-2. Rynek wyposażenia wnętrz szybko się rozwija
-3. Zespół jest doświadczony, zgrany i dobrze skomponowany
+## 2. Rynek wyposażenia wnętrz szybko się rozwija
+
+* (Trendy – idealny moment)
+* (Wielkość rynku, strategia ekspansji)
+
+## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
+
+* (
+
 4. Konkurencja jest daleko w tyle
 5. Specjaliści zgodnie polecają inwestycje takie jak ta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjI1MzUzNiwxNzg4NzcxNzIsLTEwNj
-A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
-MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
-==
+eyJoaXN0b3J5IjpbOTY2MTU5MDgsMTc4ODc3MTcyLC0xMDYwOD
+cxNjYyLC01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMs
+MjA1MTAxMDIxNiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
 -->
