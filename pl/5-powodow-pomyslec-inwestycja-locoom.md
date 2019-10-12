@@ -9,13 +9,16 @@ Stara ludowa mądrość mówi, że pierwszy dom buduje się dla wroga, drugi dla
 
 Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną perspektywę zbudowania bardzo dochodowego biznesu. Jeśli masz dostęp do tego artykułu i czytasz te słowa, oznacza to że masz możliwość zainwestowania w Locoom i wzięcia udziału w zyskach firmy. Oto pięć powodów, dla których warto wziąć pod uwagę tę propozycję:
 
-1. Inwestycje w technologię
+## 1. Warto inwestować w technologię
+
+* (Porównanie do Ubera, Spotify, Facebooka. Progno
+
 2. Rynek wyposażenia wnętrz szybko się rozwija
 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 4. Konkurencja jest daleko w tyle
 5. Specjaliści zgodnie polecają inwestycje takie jak ta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mzg4NjkwOCwxNzg4NzcxNzIsLTEwNj
+eyJoaXN0b3J5IjpbMTE4MjI1MzUzNiwxNzg4NzcxNzIsLTEwNj
 A4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgx
 MywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAyNTAzMzZdfQ
 ==
