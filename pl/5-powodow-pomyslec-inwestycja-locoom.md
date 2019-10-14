@@ -11,7 +11,7 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 ## 1. Warto inwestować w technologię
 
-Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych, staje się dostępna dla każdego i bardzo prosta w obsłudze. Na tej samej zasadzie Airbnb umożliwił podróżowanie znacznie taniej niż hotele, a Uber udostępnił dla każdego usługę zamawianych limuzyn i taksówek.
+Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych, staje się dostępna dla każdego i bardzo prosta w obsłudze. Na tej samej zasadzie Airbnb umożliwił podróżowanie znacznie taniej niż hotele, a Uber udostępnił dla każdego usługę zamawianych limuzyn i taksówek. Airbnb w dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, a 
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -41,8 +41,8 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMT
-M2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1
-LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNj
-UzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
+eyJoaXN0b3J5IjpbLTExMzAwNTE4NDEsMzI1MzU5MTA2LC0xMz
+U0MTcxMDQ4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcx
+NjYyLC01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMsMj
+A1MTAxMDIxNiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
 -->
