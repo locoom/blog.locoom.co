@@ -11,7 +11,7 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 ## 1. Warto inwestować w technologię
 
-
+Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych, staje się dostępna dla każdego. Podobne 
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -41,8 +41,8 @@ Technologia opracowana przez Locoom rozwiązuje te problemy i daje solidną pers
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDg5MjY2NCwyMTEzNjQ2ODQyLDE3OD
-g3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3
-LC0xOTk5NDg4ODEzLDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMj
-A5MDI1MDMzNl19
+eyJoaXN0b3J5IjpbNDQzODkxNTA0LDIxMTM2NDY4NDIsMTc4OD
+c3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MDE0NDkwNjcs
+LTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNjUzNzIwMTI4LC0yMD
+kwMjUwMzM2XX0=
 -->
