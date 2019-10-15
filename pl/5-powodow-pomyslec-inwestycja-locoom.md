@@ -15,7 +15,7 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe koszty wykonania usługi są prawie zerowe, bo całą pracę wykonują komputery. Uruchamianie jej na kolejnych rynkach zagranicznych też jest o wiele tańsze niż w przypadku tradycyjnych usług: nie trzeba wynajmować lokali, zatrudniać personelu na miejscu, czy budować centrów dystrybucji. Locoom niewielkim kosztem może opanowywać kolejne rynki i stać się globalnym przedsięwzięciem.
 
-Choć inwestycje w nowoczesne technologie często określa się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie zmniejszone dzięki dofinansowaniu z Polskiej Agencji Rozwoju Przedsiębiorczości, 
+Choć inwestycje w nowoczesne technologie często określa się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie zmniejszone dzięki dofinansowaniu z Polskiej Agencji Rozwoju Przedsiębiorczości. 
 
 Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 110% rocznie.
 
@@ -47,9 +47,9 @@ Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNT
-M1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3
-MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOT
-k5NDg4ODEzLDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMjA5MDI1
-MDMzNl19
+eyJoaXN0b3J5IjpbLTk5Nzg3NzcyNCwtNzAzOTc5MTAyLDE0ND
+U3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4
+NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MD
+E0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNjUzNzIw
+MTI4LC0yMDkwMjUwMzM2XX0=
 -->
