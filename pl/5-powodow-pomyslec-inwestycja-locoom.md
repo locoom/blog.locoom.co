@@ -17,7 +17,7 @@ Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe kos
 
 Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. Prognozowana wartość liczona na dzień 1 stycznia 2022 wynosi aż 28,95 mln zł. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognoza ta daje ponaddziesięciokrotny wzrost wartości w przeciągu dwóch lat działalności – czyli stopę zwrotu z zainwestowanego kapitału na poziomie 232% rocznie.
 
-Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku – dając roczna stopa zwrotu w wysokości aż 399%! Na polskim podwórku analogicznym przykładem jest aplikacja Booksy. Po dwóch latach działalności osiągnęła wycenę 20 mln zł.
+Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku – dając roczna stopa zwrotu w wysokości aż 399%! Na polskim podwórku analogicznym przykładem jest aplikacja Booksy. W 2015 roku, po dwóch latach działalności, osiągnęła wycenę 20 mln zł. Dziś jest warta między 100 a 500 mln USD, czyli 
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -49,11 +49,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3ODM0NzIsLTU3MDUxNTgyMCwxMzg4OD
-k5MzkyLC0xNDk5NTI4MTA4LC02NjYyNjYyMjgsLTE4MjU3Mjk5
-ODMsOTY5NjY5MDM1LC03MDM5NzkxMDIsMTQ0NTc4NjU5MywzMj
-UzNTkxMDYsLTEzNTQxNzEwNDgsMjExMzY0Njg0MiwxNzg4Nzcx
-NzIsLTEwNjA4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMT
-k5OTQ4ODgxMywyMDUxMDEwMjE2LC02NTM3MjAxMjgsLTIwOTAy
-NTAzMzZdfQ==
+eyJoaXN0b3J5IjpbNzE2NjkzNDIyLDg0NzgzNDcyLC01NzA1MT
+U4MjAsMTM4ODg5OTM5MiwtMTQ5OTUyODEwOCwtNjY2MjY2MjI4
+LC0xODI1NzI5OTgzLDk2OTY2OTAzNSwtNzAzOTc5MTAyLDE0ND
+U3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4
+NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MD
+E0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNjUzNzIw
+MTI4XX0=
 -->
