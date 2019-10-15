@@ -17,7 +17,7 @@ Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe kos
 
 Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. Prognozowana wartość liczona na dzień 1 stycznia 2022 wynosi aż 28,95 mln zł. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognoza ta daje ponaddziesięciokrotny wzrost wartości w przeciągu dwóch lat działalności – czyli stopę zwrotu z zainwestowanego kapitału na poziomie 232% rocznie.
 
-Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, 
+Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -49,10 +49,10 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMT
-gyNTcyOTk4Myw5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2
-NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLD
-E3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5
-MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAyMTYsLTY1MzcyMDEyOC
-wtMjA5MDI1MDMzNl19
+eyJoaXN0b3J5IjpbLTE4ODg3NzcwNTAsLTE0OTk1MjgxMDgsLT
+Y2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Njk2NjkwMzUsLTcwMzk3
+OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OC
+wyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYz
+ODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAyMT
+YsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
 -->
