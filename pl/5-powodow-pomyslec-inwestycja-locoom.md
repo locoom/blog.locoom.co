@@ -17,7 +17,7 @@ Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe kos
 
 Choć inwestycje w nowoczesne technologie często określa się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie zmniejszone dzięki warunkom dofinansowania z Polskiej Agencji Rozwoju Przedsiębiorczości. Stosunkowo niewielki wkład własny od inwestorów indywidualnych takich jak Ty (w sumie 325 000 zł) dofinansowany jest dużą kwotą, która zdecydowanie zwiększa szanse na sukces rynkowy. W ramach 
 
-Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 110% rocznie.
+Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%).
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -47,9 +47,9 @@ Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgxNDYyODQsLTcwMzk3OTEwMiwxND
-Q1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2
-ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNj
-AxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAyMTYsLTY1Mzcy
-MDEyOCwtMjA5MDI1MDMzNl19
+eyJoaXN0b3J5IjpbOTY5NjY5MDM1LC03MDM5NzkxMDIsMTQ0NT
+c4NjU5MywzMjUzNTkxMDYsLTEzNTQxNzEwNDgsMjExMzY0Njg0
+MiwxNzg4NzcxNzIsLTEwNjA4NzE2NjIsLTU2Mzg2ODUsMTYwMT
+Q0OTA2NywtMTk5OTQ4ODgxMywyMDUxMDEwMjE2LC02NTM3MjAx
+MjgsLTIwOTAyNTAzMzZdfQ==
 -->
