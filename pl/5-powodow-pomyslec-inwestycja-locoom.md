@@ -21,9 +21,9 @@ Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm tec
 
 ## 2. Rynek wyposażenia wnętrz szybko się rozwija
 
-Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz jest jednym z największych i najszybciej rosnących rynków konsumenckich. W skali świata rynek ten wyceniany jest na 800 mld USD, stabilnie rośnie po ok. 5% rocznie, a prognozy przewidują że ten wzrostowy utrzyma się przynajmniej przez najbliższe 5 lat.
+Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz jest jednym z największych i najszybciej rosnących rynków konsumenckich. W skali świata rynek ten wyceniany jest na 800 mld USD, stabilnie rośnie po ok. 5% rocznie, a prognozy przewidują że ten wzrost utrzyma się przynajmniej przez najbliższe 5 lat.
 
-Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi e-commerce, którego wartość rok do roku rośnie po ok. 14%. Przykładem 
+Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi e-commerce, którego wartość rok do roku rośnie po ok. 14%. Jako pierwszy produkt, który w tym sektorze oferuje us ten sektor, Locoom ma bardzo duże szanse szybko sta
 
 * (Trendy – idealny moment)
 * (Wielkość rynku, strategia ekspansji)
@@ -49,11 +49,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTkxNTcxNCwtNjYzMTA4OTQxLC0xOD
-UyNDc2ODU4LDg0NzgzNDcyLC01NzA1MTU4MjAsMTM4ODg5OTM5
-MiwtMTQ5OTUyODEwOCwtNjY2MjY2MjI4LC0xODI1NzI5OTgzLD
-k2OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3ODY1OTMsMzI1MzU5
-MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC
-0xMDYwODcxNjYyLC01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0
-ODg4MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTcyNjU5ODIsLTY2MzEwODk0MSwtMT
+g1MjQ3Njg1OCw4NDc4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkz
+OTIsLTE0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4My
+w5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1
+OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3Mi
+wtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5
+NDg4ODEzXX0=
 -->
