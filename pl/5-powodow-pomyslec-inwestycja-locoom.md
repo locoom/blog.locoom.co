@@ -15,7 +15,7 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe koszty wykonania usługi są prawie zerowe, bo całą pracę wykonują komputery. Uruchamianie jej na kolejnych rynkach zagranicznych też jest o wiele tańsze niż w przypadku tradycyjnych usług: nie trzeba wynajmować lokali, zatrudniać personelu na miejscu, czy budować centrów dystrybucji. Locoom niewielkim kosztem może opanowywać kolejne rynki i stać się globalnym przedsięwzięciem.
 
-Choć inwestycje w nowoczesne technologie często określa się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie zmniejszone dzięki warunkom dofinansowania z Polskiej Agencji Rozwoju Przedsiębiorczości. Stosunkowo niewielki wkład własny od inwestorów indywidualnych takich jak Ty dofinansowany jest dużą kwotą
+Choć inwestycje w nowoczesne technologie często określa się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie zmniejszone dzięki warunkom dofinansowania z Polskiej Agencji Rozwoju Przedsiębiorczości. Stosunkowo niewielki wkład własny od inwestorów indywidualnych takich jak Ty (w sumie 325 000 zł) dofinansowany jest dużą kwotą, która zdecydowanie zwiększa szanse na sukces rynkowy. W ramach 
 
 Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 110% rocznie.
 
@@ -47,9 +47,9 @@ Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTA3OTk0NSwtNzAzOTc5MTAyLDE0ND
-U3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4
-NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MD
-E0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNjUzNzIw
-MTI4LC0yMDkwMjUwMzM2XX0=
+eyJoaXN0b3J5IjpbLTE1MDgxNDYyODQsLTcwMzk3OTEwMiwxND
+Q1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2
+ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNj
+AxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAyMTYsLTY1Mzcy
+MDEyOCwtMjA5MDI1MDMzNl19
 -->
