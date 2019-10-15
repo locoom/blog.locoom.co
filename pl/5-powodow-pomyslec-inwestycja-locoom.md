@@ -25,7 +25,7 @@ Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a ryn
 
 Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi e-commerce, którego wartość rok do roku rośnie po ok. 14%. Jako pierwszy produkt, który w tym sektorze oferuje usługi projektowania wnętrz, Locoom ma bardzo duże szanse szybko stać się liderem sektora – i długoterminowo, stabilnie rosnąć razem z nim.
 
-Trendy te odzwierciedlają też inne dane, np. oglądalno
+Trendy te odzwierciedlają też inne dane, np. oglądalność stacji Home & Garden TV. Wśród 5 stacji lifestyle’owych to jedyna, która rośnie.
 
 * (Trendy – idealny moment)
 * (Wielkość rynku, strategia ekspansji)
@@ -51,11 +51,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzODQ5NzU2LC02NjMxMDg5NDEsLTE4NT
-I0NzY4NTgsODQ3ODM0NzIsLTU3MDUxNTgyMCwxMzg4ODk5Mzky
-LC0xNDk5NTI4MTA4LC02NjYyNjYyMjgsLTE4MjU3Mjk5ODMsOT
-Y5NjY5MDM1LC03MDM5NzkxMDIsMTQ0NTc4NjU5MywzMjUzNTkx
-MDYsLTEzNTQxNzEwNDgsMjExMzY0Njg0MiwxNzg4NzcxNzIsLT
-EwNjA4NzE2NjIsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4
-ODgxM119
+eyJoaXN0b3J5IjpbLTEzMzI4NjQ1NjEsLTY2MzEwODk0MSwtMT
+g1MjQ3Njg1OCw4NDc4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkz
+OTIsLTE0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4My
+w5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1
+OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3Mi
+wtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5
+NDg4ODEzXX0=
 -->
