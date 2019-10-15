@@ -19,11 +19,9 @@ Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dzied
 
 Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku – dając roczna stopa zwrotu w wysokości aż 399%! Na polskim podwórku analogicznym przykładem jest spółka Booksy. W 2015 roku, po dwóch latach działalności, osiągnęła wycenę 20 mln zł. Dziś jest warta w przybliżeniu 740 mln zł, a co roku jej wartość stabilnie rosła ok. 2,5-krotnie rocznie (stopa zwrotu 150%).
 
-* (Porównanie do Ubera, Spotify, Facebooka)
-* (Prognozy finansowe – 1000% w 2 lata)
-* (Dofinansowanie unijne – zabezpieczenie i dodatkowa wartość)
-
 ## 2. Rynek wyposażenia wnętrz szybko się rozwija
+
+
 
 * (Trendy – idealny moment)
 * (Wielkość rynku, strategia ekspansji)
@@ -49,11 +47,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUzMzE0MDMsLTE4NTI0NzY4NTgsOD
-Q3ODM0NzIsLTU3MDUxNTgyMCwxMzg4ODk5MzkyLC0xNDk5NTI4
-MTA4LC02NjYyNjYyMjgsLTE4MjU3Mjk5ODMsOTY5NjY5MDM1LC
-03MDM5NzkxMDIsMTQ0NTc4NjU5MywzMjUzNTkxMDYsLTEzNTQx
-NzEwNDgsMjExMzY0Njg0MiwxNzg4NzcxNzIsLTEwNjA4NzE2Nj
-IsLTU2Mzg2ODUsMTYwMTQ0OTA2NywtMTk5OTQ4ODgxMywyMDUx
-MDEwMjE2XX0=
+eyJoaXN0b3J5IjpbMTgzOTIzNzYwNiwtMTg1MjQ3Njg1OCw4ND
+c4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkzOTIsLTE0OTk1Mjgx
+MDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Njk2NjkwMzUsLT
+cwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3
+MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2Mi
+wtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEw
+MTAyMTZdfQ==
 -->
