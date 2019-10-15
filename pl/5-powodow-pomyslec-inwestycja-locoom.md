@@ -21,7 +21,7 @@ Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm tec
 
 ## 2. Rynek wyposażenia wnętrz szybko się rozwija
 
-
+Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz
 
 * (Trendy – idealny moment)
 * (Wielkość rynku, strategia ekspansji)
@@ -47,7 +47,7 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjg1MzQzOCwtMTg1MjQ3Njg1OCw4ND
+eyJoaXN0b3J5IjpbMTE5MTk2Nzc4NywtMTg1MjQ3Njg1OCw4ND
 c4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkzOTIsLTE0OTk1Mjgx
 MDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Njk2NjkwMzUsLT
 cwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3
