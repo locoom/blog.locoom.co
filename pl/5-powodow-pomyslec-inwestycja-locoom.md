@@ -15,9 +15,9 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe koszty wykonania usługi są prawie zerowe, bo całą pracę wykonują komputery. Uruchamianie jej na kolejnych rynkach zagranicznych też jest o wiele tańsze niż w przypadku tradycyjnych usług: nie trzeba wynajmować lokali, zatrudniać personelu na miejscu, czy budować centrów dystrybucji. Locoom niewielkim kosztem może opanowywać kolejne rynki i stać się globalnym przedsięwzięciem.
 
-Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. Prognozowana wartość liczona na dzień 1 stycznia 2022 wynosi aż 28,95 mln zł. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognoza ta daje ponaddziesięciokrotny wzrost wartości w przeciągu dwóch lat działalności – stopę zwrotu na poziomie 
+Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. Prognozowana wartość liczona na dzień 1 stycznia 2022 wynosi aż 28,95 mln zł. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognoza ta daje ponaddziesięciokrotny wzrost wartości w przeciągu dwóch lat działalności – czyli stopę zwrotu z zainwestowanego kapitału na poziomie 232% rocznie.
 
-Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%).
+Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku  Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%).
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -49,7 +49,7 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTE2NjQ0MiwtNjY2MjY2MjI4LC0xOD
+eyJoaXN0b3J5IjpbMTAyMjc3ODc0MCwtNjY2MjY2MjI4LC0xOD
 I1NzI5OTgzLDk2OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3ODY1
 OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4NDIsMT
 c4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MDE0NDkw
