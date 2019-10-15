@@ -15,7 +15,7 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe koszty wykonania usługi są prawie zerowe, bo całą pracę wykonują komputery. Uruchamianie jej na kolejnych rynkach zagranicznych też jest o wiele tańsze niż w przypadku tradycyjnych usług: nie trzeba wynajmować lokali, zatrudniać personelu na miejscu, czy budować centrów dystrybucji. Locoom niewielkim kosztem może opanowywać kolejne rynki i stać się globalnym przedsięwzięciem.
 
-Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. W porównaniu do obecnej wartości wycenianej na 
+Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognozy przewidują 
 
 Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%).
 
@@ -49,10 +49,10 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Nj
-k2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEw
-NiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMT
-A2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4
-ODEzLDIwNTEwMTAyMTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl
-19
+eyJoaXN0b3J5IjpbMjEwNzY0MjQwNiwtNjY2MjY2MjI4LC0xOD
+I1NzI5OTgzLDk2OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3ODY1
+OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4NDIsMT
+c4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MDE0NDkw
+NjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIxNiwtNjUzNzIwMTI4LC
+0yMDkwMjUwMzM2XX0=
 -->
