@@ -21,7 +21,7 @@ Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm tec
 
 ## 2. Rynek wyposażenia wnętrz szybko się rozwija
 
-Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz
+Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz jest jednym z największych i najszybciej rosnących rynków konsumenckich. W skali świata rynek ten wyceniany jest na 800 mld USD, stabilnie rośnie po ok. 5% rocznie
 
 * (Trendy – idealny moment)
 * (Wielkość rynku, strategia ekspansji)
@@ -47,11 +47,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTk2Nzc4NywtMTg1MjQ3Njg1OCw4ND
-c4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkzOTIsLTE0OTk1Mjgx
-MDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Njk2NjkwMzUsLT
-cwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3
-MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2Mi
-wtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEw
-MTAyMTZdfQ==
+eyJoaXN0b3J5IjpbNTQ3NTkwNTI2LC0xODUyNDc2ODU4LDg0Nz
+gzNDcyLC01NzA1MTU4MjAsMTM4ODg5OTM5MiwtMTQ5OTUyODEw
+OCwtNjY2MjY2MjI4LC0xODI1NzI5OTgzLDk2OTY2OTAzNSwtNz
+AzOTc5MTAyLDE0NDU3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcx
+MDQ4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC
+01NjM4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAx
+MDIxNl19
 -->
