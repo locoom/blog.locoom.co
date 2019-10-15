@@ -15,7 +15,7 @@ Dzięki Locoom, usługa, która dotychczas była zarezerwowana dla najbogatszych
 
 Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe koszty wykonania usługi są prawie zerowe, bo całą pracę wykonują komputery. Uruchamianie jej na kolejnych rynkach zagranicznych też jest o wiele tańsze niż w przypadku tradycyjnych usług: nie trzeba wynajmować lokali, zatrudniać personelu na miejscu, czy budować centrów dystrybucji. Locoom niewielkim kosztem może opanowywać kolejne rynki i stać się globalnym przedsięwzięciem.
 
-Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie mniejsze dzięki warunkom dofinansowania z Polskiej Agencji Rozwoju Przedsiębiorczości, o które spółka się ubiega. Stosunkowo niewielki wkład własny od inwestorów indywidualnych takich jak Ty dofinansowany jest dużą kwotą, która zdecydowanie zwiększa szanse na sukces rynkowy. W dodatku, w ramach dofinansowania określone są konkretne 
+Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, w przypadku Locoom ryzyko jest znacznie mniejsze dzięki warunkom dofinansowania z Polskiej Agencji Rozwoju Przedsiębiorczości, o które spółka się ubiega. Stosunkowo niewielki wkład własny od inwestorów indywidualnych takich jak Ty dofinansowany jest dużą kwotą, która zdecydowanie zwiększa szanse na sukces rynkowy. W dodatku, w ramach dofinansowania określone są konkretne elementy technologii, które muszą powstać w ciągu 12-18 miesięcy od uruchomienia dotacji.
 
 Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, w kolejnym roku był już wart 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%).
 
@@ -47,9 +47,9 @@ Airbnb w niecałe dwa lata po uruchomieniu osiągnął wartość 71,78 mln USD, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjY0NzAyMSw5Njk2NjkwMzUsLTcwMz
-k3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0
-OCwyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNT
-YzODY4NSwxNjAxNDQ5MDY3LC0xOTk5NDg4ODEzLDIwNTEwMTAy
-MTYsLTY1MzcyMDEyOCwtMjA5MDI1MDMzNl19
+eyJoaXN0b3J5IjpbOTk3NTczMjI4LDk2OTY2OTAzNSwtNzAzOT
+c5MTAyLDE0NDU3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4
+LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01Nj
+M4Njg1LDE2MDE0NDkwNjcsLTE5OTk0ODg4MTMsMjA1MTAxMDIx
+NiwtNjUzNzIwMTI4LC0yMDkwMjUwMzM2XX0=
 -->
