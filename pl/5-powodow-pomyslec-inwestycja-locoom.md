@@ -17,7 +17,7 @@ Podobnie jak Airbnb czy Uber, Locoom jest usługą internetową. Jednostkowe kos
 
 Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dziedzinie wyceny przedsiębiorstw typu startup dr Martą Czyżewską ([econjournals.sgh.waw.pl/SiP/article/view/678](https://econjournals.sgh.waw.pl/SiP/article/view/678)), rysują bardzo optymistyczny obraz rozwoju firmy. Prognozowana wartość liczona na dzień 1 stycznia 2022 wynosi aż 28,95 mln zł. W porównaniu do obecnej wartości wycenianej na 2,62 mln zł, prognoza ta daje ponaddziesięciokrotny wzrost wartości w przeciągu dwóch lat działalności – czyli stopę zwrotu z zainwestowanego kapitału na poziomie 232% rocznie.
 
-Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku (roczna stopa zwrotu to aż 399%).
+Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku (roczna stopa zwrotu to aż 399%!).
 
 * (Porównanie do Ubera, Spotify, Facebooka)
 * (Prognozy finansowe – 1000% w 2 lata)
@@ -49,7 +49,7 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTg5NzU2OSwtMTQ5OTUyODEwOCwtNj
+eyJoaXN0b3J5IjpbMTM4ODg5OTM5MiwtMTQ5OTUyODEwOCwtNj
 Y2MjY2MjI4LC0xODI1NzI5OTgzLDk2OTY2OTAzNSwtNzAzOTc5
 MTAyLDE0NDU3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LD
 IxMTM2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4
