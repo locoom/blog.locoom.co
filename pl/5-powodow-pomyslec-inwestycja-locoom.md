@@ -29,11 +29,11 @@ Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi 
 
 Trendy te odzwierciedlają nie tylko twarde dane finansowe. Spójrzmy np. na oglądalność lifestyle’owej stacji telewizyjnej „Home & Garden TV”. Choć oglądalność tego typu stacji co roku znacznie spada, wśród 5 najlepiej notowanych HGTV jest jedyną, która z roku na rok rośnie. Kilka miesięcy temu wysunęła się na prowadzenie, wyprzedzając TVN Style i tym samym stając się najbardziej oglądalną stacją telewizyjną typu lifestyle w Polsce.
 
-Choć Locoom w pierwszym roku działalności będzie funkcjonować tylko na terenie Polski, wkrótce potem planuje ekspansję na inne rynki europejskie, a potem na rynek światowy. Stając się liderem na rynku, który regularnie rośnie, Locoom będzie rosnąć razem z nim.
+Choć Locoom w pierwszym roku działalności funkcjonować będzie tylko na terenie Polski, wkrótce potem planuje ekspansję na inne rynki europejskie, a potem na rynek światowy. Stając się liderem na rynku który regularnie rośnie, Locoom będzie rosnąć razem z nim.
 
 ## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 
-
+W
 
 * (Zespół – osiągnięcia, doświadczenie, predyspozycje)
 * (Strategia dotarcia do klientów)
@@ -54,11 +54,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY2NTQyMjgsLTY5MzI1MjIxOCwtMT
-cwNzI2MzM3NywtMTQ5MTgzNzY5OCwtNjYzMTA4OTQxLC0xODUy
-NDc2ODU4LDg0NzgzNDcyLC01NzA1MTU4MjAsMTM4ODg5OTM5Mi
-wtMTQ5OTUyODEwOCwtNjY2MjY2MjI4LC0xODI1NzI5OTgzLDk2
-OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3ODY1OTMsMzI1MzU5MT
-A2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0x
-MDYwODcxNjYyXX0=
+eyJoaXN0b3J5IjpbLTQ0ODM1MDE3MywtNjkzMjUyMjE4LC0xNz
+A3MjYzMzc3LC0xNDkxODM3Njk4LC02NjMxMDg5NDEsLTE4NTI0
+NzY4NTgsODQ3ODM0NzIsLTU3MDUxNTgyMCwxMzg4ODk5MzkyLC
+0xNDk5NTI4MTA4LC02NjYyNjYyMjgsLTE4MjU3Mjk5ODMsOTY5
+NjY5MDM1LC03MDM5NzkxMDIsMTQ0NTc4NjU5MywzMjUzNTkxMD
+YsLTEzNTQxNzEwNDgsMjExMzY0Njg0MiwxNzg4NzcxNzIsLTEw
+NjA4NzE2NjJdfQ==
 -->
