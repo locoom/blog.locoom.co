@@ -33,7 +33,9 @@ Choć Locoom w pierwszym roku działalności funkcjonować będzie tylko na tere
 
 ## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 
-W
+W przypadku firm technologicznych kluczowym elementem jest zespół. To jego doświadczenie i skuteczność często decyduje o sukcesie projektu.
+
+Locoom zostało zało
 
 * (Zespół – osiągnięcia, doświadczenie, predyspozycje)
 * (Strategia dotarcia do klientów)
@@ -54,11 +56,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODM1MDE3MywtNjkzMjUyMjE4LC0xNz
-A3MjYzMzc3LC0xNDkxODM3Njk4LC02NjMxMDg5NDEsLTE4NTI0
-NzY4NTgsODQ3ODM0NzIsLTU3MDUxNTgyMCwxMzg4ODk5MzkyLC
-0xNDk5NTI4MTA4LC02NjYyNjYyMjgsLTE4MjU3Mjk5ODMsOTY5
-NjY5MDM1LC03MDM5NzkxMDIsMTQ0NTc4NjU5MywzMjUzNTkxMD
-YsLTEzNTQxNzEwNDgsMjExMzY0Njg0MiwxNzg4NzcxNzIsLTEw
-NjA4NzE2NjJdfQ==
+eyJoaXN0b3J5IjpbNDA3Mjg2NTQxLC02OTMyNTIyMTgsLTE3MD
+cyNjMzNzcsLTE0OTE4Mzc2OTgsLTY2MzEwODk0MSwtMTg1MjQ3
+Njg1OCw4NDc4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkzOTIsLT
+E0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4Myw5Njk2
+NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1OTEwNi
+wtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3MiwtMTA2
+MDg3MTY2Ml19
 -->
