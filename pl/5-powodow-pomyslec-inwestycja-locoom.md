@@ -27,7 +27,7 @@ Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi 
 
 Trendy te odzwierciedlają nie tylko twarde dane finansowe. Spójrzmy np. na oglądalność lifestyle’owej stacji telewizyjnej „Home & Garden TV”. Choć oglądalność tego typu stacji co roku znacznie spada, wśród 5 najlepiej notowanych HGTV jest jedyną, która z roku na rok rośnie. Kilka miesięcy temu wysunęła się na prowadzenie, wyprzedzając TVN Style i tym samym stając się najbardziej oglądalną stacją telewizyjną typu lifestyle w Polsce.
 
-
+Opanowując rynek, który stabilnie rośnie
 
 ## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 
@@ -50,11 +50,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDQ5NjA2MywtMTQ5MTgzNzY5OCwtNj
-YzMTA4OTQxLC0xODUyNDc2ODU4LDg0NzgzNDcyLC01NzA1MTU4
-MjAsMTM4ODg5OTM5MiwtMTQ5OTUyODEwOCwtNjY2MjY2MjI4LC
-0xODI1NzI5OTgzLDk2OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3
-ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4ND
-IsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01NjM4Njg1LDE2MDE0
-NDkwNjddfQ==
+eyJoaXN0b3J5IjpbLTIwNDEyODEsLTE0OTE4Mzc2OTgsLTY2Mz
+EwODk0MSwtMTg1MjQ3Njg1OCw4NDc4MzQ3MiwtNTcwNTE1ODIw
+LDEzODg4OTkzOTIsLTE0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMT
+gyNTcyOTk4Myw5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2
+NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLD
+E3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5
+MDY3XX0=
 -->
