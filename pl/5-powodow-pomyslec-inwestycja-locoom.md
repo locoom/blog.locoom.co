@@ -19,6 +19,8 @@ Dzięki temu prognozy finansowe Locoom, opracowane wraz ze specjalistką w dzied
 
 Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm technologicznych. Wspomniana wcześniej firma Airbnb w niecałe dwa lata po uruchomieniu osiągnęła wartość 72 mln USD, w kolejnym roku była już warta 1,31 mld USD, a przez kolejne 4 lata z rzędu regularnie wzrastała na wartości ok. 2,1-krotnie rocznie (stopa zwrotu 110%). Uber z kolei po dwóch latach działalności wyceniano na 60 mln USD, 9 miesięcy później warta była już 330 mln USD, a przez kolejne 3 lata rosła regularnie w tempie ok. 14,3% miesięcznie, czyli 5,0-krotnie co roku – dając roczną stopę zwrotu w wysokości aż 400%! Na polskim podwórku analogicznym przykładem jest spółka Booksy. W 2015 roku, po dwóch latach działalności, osiągnęła wycenę 20 mln zł. Dziś jest warta w przybliżeniu 740 mln zł – co roku jej wartość stabilnie rośnie ok. 2,5-krotnie rocznie (stopa zwrotu 150%).
 
+Inwestycje w firmy technologiczne takie jak Locoom dają potencjalnie bardzo wysoką stopę zwrotu, niespotykaną nigdzie indziej.
+
 ## 2. Rynek wyposażenia wnętrz szybko się rozwija
 
 Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz jest jednym z największych i najszybciej rosnących rynków konsumenckich. W skali świata rynek ten wyceniany jest na 1,34 bln USD, stabilnie rośnie po ok. 5% rocznie, a prognozy przewidują że ten wzrost utrzyma się przynajmniej przez najbliższe 5 lat.
@@ -27,7 +29,7 @@ Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi 
 
 Trendy te odzwierciedlają nie tylko twarde dane finansowe. Spójrzmy np. na oglądalność lifestyle’owej stacji telewizyjnej „Home & Garden TV”. Choć oglądalność tego typu stacji co roku znacznie spada, wśród 5 najlepiej notowanych HGTV jest jedyną, która z roku na rok rośnie. Kilka miesięcy temu wysunęła się na prowadzenie, wyprzedzając TVN Style i tym samym stając się najbardziej oglądalną stacją telewizyjną typu lifestyle w Polsce.
 
-Opanowując rynek, który stabilnie rośnie
+Choć Locoom w pierwszym roku działalności będzie funkcjonować tylko na te
 
 ## 3. Zespół jest doświadczony, zgrany i dobrze skomponowany
 
@@ -50,11 +52,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzI1MjIxOCwtMTcwNzI2MzM3NywtMT
-Q5MTgzNzY5OCwtNjYzMTA4OTQxLC0xODUyNDc2ODU4LDg0Nzgz
-NDcyLC01NzA1MTU4MjAsMTM4ODg5OTM5MiwtMTQ5OTUyODEwOC
-wtNjY2MjY2MjI4LC0xODI1NzI5OTgzLDk2OTY2OTAzNSwtNzAz
-OTc5MTAyLDE0NDU3ODY1OTMsMzI1MzU5MTA2LC0xMzU0MTcxMD
-Q4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0xMDYwODcxNjYyLC01
-NjM4Njg1XX0=
+eyJoaXN0b3J5IjpbLTEwNTIyODMxOTgsLTY5MzI1MjIxOCwtMT
+cwNzI2MzM3NywtMTQ5MTgzNzY5OCwtNjYzMTA4OTQxLC0xODUy
+NDc2ODU4LDg0NzgzNDcyLC01NzA1MTU4MjAsMTM4ODg5OTM5Mi
+wtMTQ5OTUyODEwOCwtNjY2MjY2MjI4LC0xODI1NzI5OTgzLDk2
+OTY2OTAzNSwtNzAzOTc5MTAyLDE0NDU3ODY1OTMsMzI1MzU5MT
+A2LC0xMzU0MTcxMDQ4LDIxMTM2NDY4NDIsMTc4ODc3MTcyLC0x
+MDYwODcxNjYyXX0=
 -->
