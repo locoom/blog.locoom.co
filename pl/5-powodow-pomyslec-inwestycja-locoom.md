@@ -23,7 +23,7 @@ Zwroty z inwestycji na takim poziomie są dość powszechne w przypadku firm tec
 
 Zarówno w Polsce jak i na rynkach zachodnich społeczeństwo się bogaci, a rynek wyposażenia i wykończenia wnętrz jest jednym z największych i najszybciej rosnących rynków konsumenckich. W skali świata rynek ten wyceniany jest na 800 mld USD, stabilnie rośnie po ok. 5% rocznie, a prognozy przewidują że ten wzrost utrzyma się przynajmniej przez najbliższe 5 lat.
 
-Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi e-commerce, którego wartość rok do roku rośnie po ok. 14%. Jako pierwszy produkt, który w tym sektorze oferuje usługi projektowania wnętrz, Locoom ma bardzo duże szanse szybko stać się liderem sektora – i długoterminowo, stabilnie rosnąć razem z nim.
+Co ciekawe, ten potężny wzrost rynek zawdzięcza prawie wyłącznie sektorowi e-commerce, którego wartość rok do roku rośnie po ok. 14%. Jako pierwszy produkt, który w tym sektorze oferuje usługę projektowania wnętrz, Locoom ma bardzo duże szanse szybko stać się liderem sektora – i długoterminowo, stabilnie rosnąć razem z nim.
 
 Trendy te odzwierciedlają nie tylko twarde dane finansowe. Spójrzmy np. na oglądalność lifestyle’owej stacji telewizyjnej „Home & Garden TV”. Choć oglądalność tego typu stacji co roku znacznie spada, wśród 5 najlepiej notowanych HGTV jest jedyną, która z roku na rok rośnie. Kilka miesięcy temu wysunęła się na prowadzenie, wyprzedzając TVN Style i tym samym stając się najbardziej oglądalną lifestyle’ową stacją telewizyjną w Polsce.
 
@@ -51,11 +51,11 @@ Choć inwestycje w nowoczesne technologie często traktuje się jako ryzykowne, 
 
 (CTA – poproś o więcej info)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE4Mzc2OTgsLTY2MzEwODk0MSwtMT
-g1MjQ3Njg1OCw4NDc4MzQ3MiwtNTcwNTE1ODIwLDEzODg4OTkz
-OTIsLTE0OTk1MjgxMDgsLTY2NjI2NjIyOCwtMTgyNTcyOTk4My
-w5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1Nzg2NTkzLDMyNTM1
-OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2ODQyLDE3ODg3NzE3Mi
-wtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAxNDQ5MDY3LC0xOTk5
-NDg4ODEzXX0=
+eyJoaXN0b3J5IjpbLTIwOTA5NTAwNjYsLTE0OTE4Mzc2OTgsLT
+Y2MzEwODk0MSwtMTg1MjQ3Njg1OCw4NDc4MzQ3MiwtNTcwNTE1
+ODIwLDEzODg4OTkzOTIsLTE0OTk1MjgxMDgsLTY2NjI2NjIyOC
+wtMTgyNTcyOTk4Myw5Njk2NjkwMzUsLTcwMzk3OTEwMiwxNDQ1
+Nzg2NTkzLDMyNTM1OTEwNiwtMTM1NDE3MTA0OCwyMTEzNjQ2OD
+QyLDE3ODg3NzE3MiwtMTA2MDg3MTY2MiwtNTYzODY4NSwxNjAx
+NDQ5MDY3XX0=
 -->
